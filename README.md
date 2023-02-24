@@ -1,4 +1,4 @@
-# FDM_template
-FDM template repo
+# CB_FDM_Warehouse_ALL
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+
+## This dataset contains the full extract from the BTHFT Warehouse. It contains Accident and Emergency, Inpatients, Outpatients, Pharmacy, Theatre, Ward Stays, Theatre and Maternity datasets. 
