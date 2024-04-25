@@ -1,14 +1,3 @@
-<a href="https://www.bradfordresearch.nhs.uk/our-research-teams/connected-bradford/">
-  <img align="left" alt="ConnectedBradford" width="55px" src="https://github.com/ShoreRob1/Images/blob/main/CB%20logo%201.png?raw=true" />
-</a>
-
-This is the Connected Bradford - Bradford Royal Infirmary - Warehouse FDM GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
-
-# Flexible Data Model (FDM) 
-
-As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and onbservation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details if the OHDSI CDM Model. 
-
-
 # Connected Bradford Secondary Care data for Bradford Royal Infirmary (CB_FDM_Warehouse)
 
 Contains the scripts and data dictionary for the Bradford Royal Infirmary. This is the Hospital data gathered at Bradford Royal Infirmary. 
