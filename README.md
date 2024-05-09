@@ -9,19 +9,19 @@ This is the Connected Bradford Primary Care GitHub page where you can find a sum
 As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and onbservation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details if the OHDSI CDM Model. 
 
 
-# Connected Bradford Secondary Care data - BRI
+# Connected Bradford Secondary Care - Bradford Royal Infirmary (CB_FDM_BradfordRoyalInfirmary) 
 
 Contains the scripts and data dictionary for the Bradford Royal Infirmary. This is the Hospital data gathered at Bradford Royal Infirmary. 
 It contains approximately 800,000 patients with the full clinical record. The dataset has been fully anonymised, but can link to other FDM's.
 
 
-The latest extract of Secondary Care data for BRI is stored in CB_FDM_Warehouse - build date 2023-04-01 - data up to 2023-10-15
-
+The latest extract of Secondary Care data for BRI is stored in CB_FDM_BradfordRoyalInfirmary - build date 2023-05-09 - data up to 2024-04-22
 
 # Tables
-The Bradford Royal Infirmary FDM (warehouse) is made up of 32 source tables (summarised below and data dictionaries linked) from routinely collected data from Bradford Royal Infirmary for 840,572 individuals and their routinely collcted clinical data. 
+The Bradford Royal Infirmary FDM (warehouse) is made up of 32 source tables (summarised below and data dictionaries linked) from routinely collected data from Bradford Royal Infirmary for 822,440  individuals and their routinely collcted clinical data. 
 
-The dates relevant for the latest build are: 1933-08-28	 to 2023-10-15
+The dates relevant for the latest build are: 1933-08-28	to	2024-04-22
+
 
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
 
